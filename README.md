@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Claudio Bonvino
 - 👀 I’m interested in Finance, and Corputer Science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working with python
 
 
 <!---
