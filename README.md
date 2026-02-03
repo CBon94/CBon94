@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CBon94
-- 👀 I’m interested in Finance, Healthcare and Corputer Science
+- 👋 Hi, I’m @Claudio Bonvino
+- 👀 I’m interested in Finance, and Corputer Science
 - 🌱 I’m currently learning python
 
 
